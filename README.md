@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi there! 👋 I'm Tharushi Nishshanka</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kalam&pause=1000&width=500&lines=Full-Stack+Developer+%7C+Tech+Enthusiast;Passionate+About+Open-Source+%7C+Innovative+Thinker)](https://git.io/typing-svg)
 
 <h3 align="center">🚀 Full-Stack Developer | Tech Enthusiast | Open-Source Contributor</h3>
 
