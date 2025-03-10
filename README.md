@@ -3,7 +3,7 @@
 <h1 align="center">Hi there! 👋 I'm Tharushi Nishshanka</h1>
 
 
-<h3 align="center">🚀 Full-Stack Developer | Tech Enthusiast | Open-Source Contributor</h3>
+<h3 align="center">🚀 Full-Stack Developer | Tech Enthusiast </h3>
 
 ---
 
